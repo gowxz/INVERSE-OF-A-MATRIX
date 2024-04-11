@@ -26,8 +26,8 @@ A=np.array([[6,2,3],[3,1,1],[10,3,4]])
 inverse=np.linalg. inv(A)
 print('The inverse of the given matrix is',inverse)
 ```
-## Output:
-![Screenshot 2024-04-08 100445](https://github.com/gowxz/INVERSE-OF-A-MATRIX/assets/155504997/e8c9cdc4-4c8c-404f-b410-7b800bb5f2dc)
+## Output:![image](https://github.com/gowxz/INVERSE-OF-A-MATRIX/assets/155504997/2b0457b7-60ae-4822-8e93-ba2e9bb61b2f)
+
 
 
 ## Result:
