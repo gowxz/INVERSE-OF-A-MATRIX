@@ -1,5 +1,5 @@
 # EX:3.INVERSE-OF-A-MATRIX
-# Date:30/03/2024
+# Date:
 ## Aim:
 To write a python program to find the inverse of a matrix
 ## Equipment’s required:
